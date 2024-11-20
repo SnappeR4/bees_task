@@ -12,4 +12,4 @@ The app follows the **MVVM architecture** with **GetX** for state management, us
 - **Architecture**: MVVM (Model-View-ViewModel) for clean and maintainable code
 
 ## 📸 Screenshots
-![Frame 1](https://github.com/user-attachments/assets/02b368e2-cc27-4922-ae35-4a427c66066c)
+![Frame 1 (1)](https://github.com/user-attachments/assets/a5084fd4-e010-4503-b1ac-10e5c8ed2ff1)
