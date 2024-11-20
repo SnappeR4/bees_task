@@ -12,15 +12,9 @@ The app follows the **MVVM architecture** with **GetX** for state management, us
 - **Architecture**: MVVM (Model-View-ViewModel) for clean and maintainable code
 
 ## 📸 Screenshots
+![WhatsApp Image 2024-11-20 at 3 31 40 PM (1)](https://github.com/user-attachments/assets/fa90c324-a8d2-4ebd-8891-a349e4d1292f)
+![WhatsApp Image 2024-11-20 at 3 31 40 PM](https://github.com/user-attachments/assets/856d3be8-0077-402a-8a2c-16fca23da7b2)
+![WhatsApp Image 2024-11-20 at 3 31 41 PM](https://github.com/user-attachments/assets/f8312916-94e7-4707-a434-3a1aa759aa9c)
+![WhatsApp Image 2024-11-20 at 3 31 40 PM (2)](https://github.com/user-attachments/assets/080c7c30-ab05-4d7a-aea9-a548d86a0aa9)
 
-### App Home Screen
-![Home Screen](path_to_your_image.png)  
-Description of what the screen shows (e.g., the main dashboard or home screen of the app).
-
-### Receipt List Screen
-![Receipt List](path_to_your_image.png)  
-Description of what this screen shows (e.g., a list of receipts retrieved via API).
-
-### Error Screen (No Internet)
-![No Internet](path_to_your_image.png)  
-Description of the error screen displayed when there's no internet connection.
+![Home Screen](https://github.com/user-attachments/assets/fa90c324-a8d2-4ebd-8891-a349e4d1292f)
