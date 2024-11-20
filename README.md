@@ -1,16 +1,26 @@
-# bees
+# Bees 🐝
 
-A new Flutter project.
+Welcome to the **Bees** Flutter project! This project was developed as part of an assignment for the Flutter position at Bees Software Solutions Pvt Ltd.
 
-## Getting Started
+The app follows the **MVVM architecture** with **GetX** for state management, uses **Dio** for handling networking (API calls), and **Hive** for local storage.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **State Management**: GetX (following the MVVM pattern)
+- **Networking**: Dio for API requests
+- **Local Storage**: Hive for persistent data storage
+- **Architecture**: MVVM (Model-View-ViewModel) for clean and maintainable code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App Home Screen
+![Home Screen](path_to_your_image.png)  
+Description of what the screen shows (e.g., the main dashboard or home screen of the app).
+
+### Receipt List Screen
+![Receipt List](path_to_your_image.png)  
+Description of what this screen shows (e.g., a list of receipts retrieved via API).
+
+### Error Screen (No Internet)
+![No Internet](path_to_your_image.png)  
+Description of the error screen displayed when there's no internet connection.
